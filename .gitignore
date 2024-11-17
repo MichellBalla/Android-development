@@ -1,0 +1,15 @@
+.DS_Store
+.idea/workspace.xml
+*.ipr
+workspace.xml
+local.properties
+
+.gradle
+
+build/
+
+.idea/
+*.iml
+*.iws
+
+.intellijPlatform/
